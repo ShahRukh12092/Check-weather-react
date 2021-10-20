@@ -1,6 +1,14 @@
+# Weather App
+
+A simple weather application built with React using only functional components and no class components and used api to get weather information base on city name.This exercise was intended to explore and learn more about Hooks and handle apis in React.
+
+[This project has been deployed here and you can see the app after clicking this link.](https://shahrukh12092.github.io/weather-react/).
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ 
 
 ## Available Scripts
 
